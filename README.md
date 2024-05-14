@@ -13,13 +13,13 @@ This Python script allows you to change the MAC address of a network interface i
 1. **Clone the Repository**: Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/mac-address-changer.git
+    git clone https://github.com/souhaib-soo/Mac-address-Changer.git
     ```
 
 2. **Navigate to the Directory**: Navigate to the directory containing the script.
 
     ```bash
-    cd mac-address-changer
+    cd Mac-address-Changer
     ```
 
 3. **Run the Script**: Run the script with administrative privileges and specify the interface and the new MAC address.
